@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nevZvWAkDmccAcPkVPZRxzfIXk2Y8OOfYruXpBwdlc0dsyt8zq1fpjgSBwslRyBkrNlwsc2dItRCz6Bl17wihg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\C#\\Namespace-Dll-Static-Extention-HomeWork\\Namespace-Dll-Static-Extention-HomeWork\\Namespace-Dll-Static-Extention-HomeWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

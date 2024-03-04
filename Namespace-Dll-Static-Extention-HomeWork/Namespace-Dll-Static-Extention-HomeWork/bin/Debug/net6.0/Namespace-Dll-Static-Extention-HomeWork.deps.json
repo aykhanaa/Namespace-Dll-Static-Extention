@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Namespace-Dll-Static-Extention-HomeWork/1.0.0": {
+        "runtime": {
+          "Namespace-Dll-Static-Extention-HomeWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Namespace-Dll-Static-Extention-HomeWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

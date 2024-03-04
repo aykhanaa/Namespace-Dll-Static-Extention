@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\bin\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.exe
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\bin\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.deps.json
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\bin\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.runtimeconfig.json
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\bin\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.dll
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\bin\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.pdb
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\obj\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\obj\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\obj\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.AssemblyInfo.cs
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\obj\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\obj\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.dll
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\obj\Debug\net6.0\refint\Namespace-Dll-Static-Extention-HomeWork.dll
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\obj\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.pdb
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\obj\Debug\net6.0\Namespace-Dll-Static-Extention-HomeWork.genruntimeconfig.cache
+C:\Users\Hp\Desktop\C#\Namespace-Dll-Static-Extention-HomeWork\Namespace-Dll-Static-Extention-HomeWork\obj\Debug\net6.0\ref\Namespace-Dll-Static-Extention-HomeWork.dll
